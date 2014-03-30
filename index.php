@@ -30,7 +30,7 @@
             <p>
             Bitshares decentralizes power among millions of shareholders who
             work together to effortlessly secure the system and prevent anyone
-            from exersicing arbitrary power over the company. <br/>
+            from exercising arbitrary power over the company. <br/>
             <a href="">Learn more...</a>
             </p>
         </div>
@@ -159,7 +159,7 @@
             </div>
             <p>
             For the first time in history it is now possible to have verified voting,
-            that is anonymous, continious, and free from manipulation. <br/>
+            that is anonymous, continuous, and free from manipulation. <br/>
             <a href="/bitshares-voice/">learn more...</a>
             </p>
         </div>
@@ -237,7 +237,7 @@
             <h1>TEAM</h1>
             <h4>Build the Industry</h4>
             </div>
-            <p> Our constantly growing team of independent individuals is actively working to make the world a better place by contributing their lives, forturnes and sacred honor to the cause. <br/><a href="/team">Meet the Team!</a></p>
+            <p> Our constantly growing team of independent individuals is actively working to make the world a better place by contributing their lives, fortunes and sacred honor to the cause. <br/><a href="/team">Meet the Team!</a></p>
             </p>
         </div>
        </div>
