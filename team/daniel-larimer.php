@@ -38,7 +38,7 @@
   </p>
 
   <p>
-  Larimer is a Colorado nativewho spent
+  Larimer is a Colorado native who spent
   his formative years in Florida and
   Virginia, the latter serving as his home
   base since graduating in computer science
