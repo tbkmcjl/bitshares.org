@@ -70,7 +70,7 @@
         <div class="clear"></div>
 
         <div class="fl-lt col-33">
-          <div class="avatar"><img src="/assets/img/avatars/corral.jpg" alt="Eddie Corral" title="Eddie Corral"></div>
+          <div class="avatar"><img width="90%" src="/assets/img/avatars/eddie.png" alt="Eddie Corral" title="Eddie Corral"></div>
           <h2>
             Eddie Corral
             <span>Bitshares MUSIC</span>
@@ -139,7 +139,7 @@
         </div>
 
         <div class="fl-lt col-33">
-          <div class="avatar"><img src="/assets/img/avatars/corral.jpg" alt="Nikolai Mushegian" title="Nikolai Mushegian"></div>
+          <div class="avatar"><img width="80px" src="/assets/img/avatars/nikolai.png" alt="Nikolai Mushegian" title="Nikolai Mushegian"></div>
           <h2>
             Nikolai Mushegian
             <span>BitShares DNS</span>
@@ -202,7 +202,7 @@
 
         <div class="clear"></div>
         <div class="fl-lt col-33">
-          <div class="avatar"><img src="/assets/img/avatars/sergio.jpg" alt="Amazon" title="Amazon"></div>
+          <div class="avatar"><img width="85px" src="/assets/img/avatars/amazon.png" alt="Amazon" title="Amazon"></div>
           <h2>
             Amazon
             <span>Forum Management</span>
@@ -232,22 +232,6 @@
           <h2>
             Alexey Zolotaryov
             <span>BitShares PTS</span>
-          </h2>
-          <p>&nbsp;</p>
-        </div>
-        <div class="fl-lt col-33">
-          <div class="avatar"><img src="/assets/img/avatars/andy.jpg" alt="Andy" title="Andy"></div>
-          <h2>
-            Andy Beal 
-            <span>Legal Advisor</span>
-          </h2>
-          <p>&nbsp;</p>
-        </div>
-        <div class="fl-lt col-33">
-          <div class="avatar"><img src="/assets/img/avatars/matthew.jpg" alt="Adam B.. Levine" title="Adam B. Levine"></div>
-          <h2>
-            Adam B. Levine
-            <span>Advisor</span>
           </h2>
           <p>&nbsp;</p>
         </div>

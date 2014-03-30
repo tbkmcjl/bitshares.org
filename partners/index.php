@@ -29,6 +29,8 @@
       <a href="http://cryptsy.com"><img src="https://www.cryptsy.com/img/biglogo.png?rev=2"</img></a>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       <a href="http://ybitcoin.net"><img src="http://ybitcoin.net/wp-content/uploads/2013/07/ybitcoinlogo1.png"</img></a>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      <a href="http://bitcountant.com/category/community-service/conscious-entrepreneurship/"><img src="/assets/img/cef_logo.png"</img></a>
       <br/>
       <br/>
       <br/>
