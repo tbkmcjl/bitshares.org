@@ -81,7 +81,7 @@
           <div class="avatar"><img src="/assets/img/avatars/arlen.jpg" alt="Arlen Del Castillo . Vice President of Software" title="Arlen Del Castillo . Vice President of Software"></div>
           <h2>
             Arlen Del Castillo
-            <span>Software</span>
+            <span>Systems Engineer</span>
           </h2>
           <p>&nbsp;</p>
         </div>
@@ -113,7 +113,7 @@
           <p>&nbsp;</p>
         </div>
         <div class="fl-lt col-33">
-          <div class="avatar"><img src="/assets/img/avatars/angelina.jpg" alt="Angelina Pluzhnyk" title="Angelina Pluzhnyk"></div>
+          <div class="avatar"><img width="80px" src="http://bitcountant.com/wp-content/uploads/2013/07/AP_bio.png" alt="Angelina Pluzhnyk" title="Angelina Pluzhnyk"></div>
           <h2>
             Angelina Pluzhnyk
             <span>Accountant</span>

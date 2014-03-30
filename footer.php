@@ -4,7 +4,7 @@
 
 	<! ========== FOOTER ========================================================================================================
 	=============================================================================================================================>
-
+<a name="footer"></a>
 <section class="extra-nav">
     <div class="container">
       <article class="col-25">
@@ -28,7 +28,7 @@
           <li><a href="/bitshares/insurance">bitshares MAS</a></li>
           <li><a href="/bitshares/x">bitshares MUSIC</a></li>
           <li><a href="/bitshares/lotto">bitshares HOPE</a></li>
-          <li><a href="/bitshares/ags-pts">bitshares PTS/AGS</a></li>
+          <li><a href="/bitshares/ags-pts.php">bitshares PTS/AGS</a></li>
         </ul>
         <ul> </ul>
       </article>

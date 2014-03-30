@@ -22,7 +22,7 @@
 
 	<div id="grey">
 		<div class="container">
-			<div class="inner-page row"style="min-height:60px">
+			<div class="inner-page row"style="min-height:30px">
       </div>
 			<div class="inner-page row">
     		<div class="col-md-4 centered">
@@ -55,6 +55,7 @@
             </p>
         </div>
       </div>
+        <a name="companies"></a>
 			<div class="inner-page row"style="min-height:20px">
       </div>
 			<div class="inner-page row"style="min-height:60px">
@@ -65,7 +66,7 @@
   </div>
 	<div id="grey">
 		<div class="container">
-			<div class="inner-page row"style="min-height:30px">
+			<div class="inner-page row"style="min-height:10px">
       </div>
 			<div class="inner-page row">
     		<div class="col-md-4 centered">
@@ -184,7 +185,7 @@
             <p>
             Bitshares PTS is a clone of <a href="">Bitcoin</a> that comes with the social
             contract that gives the shareholders 10% or more of every <span style="color:#9ce936;">bit</span><span style="color:#009df6;">shares</span> decentralized autonomous company.<br/>
-            <a href="/bitshares/ags-pts">learn more...</a>
+            <a href="/bitshares/ags-pts.php">learn more...</a>
             </p>
         </div>
     		<div class="col-md-4 centered">
@@ -197,7 +198,7 @@
             Give your PTS or BTC to a community trust that is committed to building
             new decentralized autonomous companies and promoting the industry.  
              <br/>
-            <a href="/bitshares/ags-pts">learn more...</a>
+            <a href="/bitshares/ags-pts.php">learn more...</a>
             </p>
         </div>
        </div>
@@ -205,6 +206,7 @@
   </div>
 	<div id="grey">
 		<div class="container">
+        <a name="getinvolved"></a>
 			<div class="inner-page row"style="min-height:30px">
       </div>
 			<div class="inner-page row"style="min-height:30px">
