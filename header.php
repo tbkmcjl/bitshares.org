@@ -8,7 +8,7 @@
     <meta name="author" content="BitShares">
     <link rel="shortcut icon" href="/assets/img/favicon.ico">
 
-    <title>BitShares - <?php echo ${section_title} ?></title>
+    <title>bitshares - <?php echo ${section_title} ?></title>
     <script type="text/javascript" src="/assets/js/flipcounter.js"></script>
 
     <!-- Bootstrap core CSS -->
@@ -64,12 +64,12 @@
     </div>
     <div class="navbar-collapse collapse">
       <ul class="nav navbar-nav navbar-left">
-        <li><a href="/index.php"><span style="color:#9ce936;">Bit</span><span style="color:#009df6;">Shares</span></a></li>
+        <li><a href="/index.php"><span style="color:#9ce936;">bit</span><span style="color:#009df6;">shares</span></a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li><a href="/blog/">Blog</a></li>
-        <li><a href="community.php">Community</a></li>
-        <li><a href="news.php">News</a></li>
+        <li><a href="/community">Community</a></li>
+        <li><a href="/press">Press</a></li>
 
   <!--    <li><a href="blog.php">Blog</a></li> 
       <li><a href="http://www.twitter.com/_bitshares"><img  height="20px" src="https://g.twimg.com/Twitter_logo_blue.png"/></a></li>

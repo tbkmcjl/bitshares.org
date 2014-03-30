@@ -109,6 +109,14 @@ body {
 	background-repeat: no-repeat;
 	text-indent: -9000em;
 }
+.bloomberg {
+	background-image: url(/assets/img/bloomberg.png);
+	background-repeat: no-repeat;
+	text-indent: -9000em;
+	width: 200px;
+	height: 41px;
+  margin-right: 20px;
+}
 
 .logo {
 	background-position: 0 0;	
@@ -181,10 +189,12 @@ body {
 	background-position: -695px -465px;
 	width: 265px;
 	height: 60px;
+          margin-right: 40px;
 }
 
 .newScientist {
 	background-position: -695px -361px;
+          margin-left: 60px;
 	width: 232px;
 	height: 59px;
 }
@@ -226,8 +236,10 @@ body {
 .twitter, .youtube, .facebook, .linkedin, .google, .mail {
 	width: 41px;
 	height: 40px;
+          margin-left: 20px;
 	text-indent: -9000em;
 	display: block;
+  float:left;
 }
 
 .twitter, .youtube, .facebook, .linkedin, .google {
@@ -320,10 +332,6 @@ nav a:nth-child(5) {
 	margin-right: 0;
 }
 
-nav .social {
-	width: auto !important;
-	float: right;
-}
 
 /* DEFAULT */
 
@@ -351,7 +359,7 @@ nav .social {
 	margin-right: 0;
 }
 
-.topNavDefault .social {
+.topNavDefault {
 	width: auto !important;
 	float: right;
 }
@@ -553,6 +561,7 @@ header section .blue-btn {
 
 .news .tc {
 	margin-right: 100px;
+          margin-left: 60px;
 }
 
 .news .bitcoin {
@@ -772,7 +781,6 @@ header section .blue-btn {
 }
 
 .social {
-	width: 100%;
 	margin: 0 auto;
 	margin-top: 27px;
 	margin-bottom: 24px;
@@ -792,7 +800,7 @@ header section .blue-btn {
 
 .extra-nav .container article {
 	float: left;
-	padding: 40px 0 0 45px;
+	padding: 40px 0 0 25px;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
@@ -806,7 +814,7 @@ header section .blue-btn {
 .extra-nav .container article h3 {
 	font-size: 40px;
 	font-weight: 300;
-	margin-bottom: 45px;
+	margin-bottom: 35px;
 	line-height: 30px;
 }
 
@@ -815,9 +823,9 @@ header section .blue-btn {
 }
 
 .extra-nav .container article ul li {
-	margin-bottom: 25px;
 	font-size: 20px;
 	font-weight: 600;
+	margin-bottom: 10px;
 }
 
 .map {
