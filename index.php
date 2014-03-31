@@ -10,8 +10,8 @@
 		<div class="container">
 			<div class="inner-page row">
     		<div class="col-md-12 centered">
-           <h1> What are <span style="color:#9ce936;">bit</span><span style="color:#009df6;">shares</span>?</h1>
-        
+           <img src="/assets/img/btslogo-300x89.png"/>
+           <br/>
            <br/>
                <iframe src="//player.vimeo.com/video/89948761" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
            <br/>
@@ -84,7 +84,7 @@
             Trade your dollars, gold, and silver on a global market through a built
             in full-featured exchange with support for shorts and options. 
             <br/>
-            <a href="/bitshares-x/">learn more...</a>
+            <a href="/bitshares/bank">learn more...</a>
             </p>
         </div>
     		<div class="col-md-4 centered">

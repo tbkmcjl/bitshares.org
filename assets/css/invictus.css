@@ -62,7 +62,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .sidebar {
-	padding-top: 90px !important;
+	padding-top: 0px !important;
 }
 
 .sidebar .block {
@@ -253,12 +253,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 .lightblue-bg {
 	background-color: #f2f7f9;
-	padding: 60px 0 0 0;
+	padding: 20px 0 0 0;
 	overflow: hidden;
 }
 
 .lightblue-bg img {
-	box-shadow: 0 0 40px #aec7d1;
+/*	box-shadow: 0 0 40px #aec7d1; */
 }
 
 .downloads h2 {
@@ -318,24 +318,24 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-#white.bitsharesx .boxes {
+.bitsharesx .boxes {
 	padding-top: 40px;
 }
 
-#white.bitsharesx .boxes h2 {
+.bitsharesx .boxes h2 {
 	font-size: 30px;
 	line-height: 40px;
 }
 
-#white.bitsharesx .boxes img.bitsharesx-logo {
+.bitsharesx .boxes img.bitsharesx-logo {
 	width: 100%;
 }
 
-#white.bitsharesx .boxes ul {
+.bitsharesx .boxes ul {
 	list-style: none outside;
 }
 
-#white.bitsharesx .boxes li {
+.bitsharesx .boxes li {
 	background-color: #4aa6d4;
 	display: inline-block;
 	width: 27%;
@@ -348,7 +348,7 @@ h1, h2, h3, h4, h5, h6 {
 	border-radius: 3px;
 }
 
-body #white.bitsharesx .boxes li h3 {
+body .bitsharesx .boxes li h3 {
 	margin: 0 0 15px 0;
 	padding: 0;
 	color: #fff;
@@ -358,7 +358,7 @@ body #white.bitsharesx .boxes li h3 {
 	border-top-right-radius: 3px;
 }
 
-body #white.bitsharesx .boxes li span {
+body .bitsharesx .boxes li span {
 	font-size: 16px;
 	font-weight: 700;
 }
@@ -386,17 +386,17 @@ body #white.bitsharesx .boxes li span {
 	margin-bottom: 50px;
 }
 
-#white.bitsharesx .specs-table .mono-img {
+.bitsharesx .specs-table .mono-img {
 	text-align: center;
 	margin-bottom: 30px;
 }
 
-#white.bitsharesx .specs-table .mono-img img {
+.bitsharesx .specs-table .mono-img img {
 	height: 130px;
 	box-shadow: none;
 }
 
-#white.bitsharesx .specs-table ul {
+.bitsharesx .specs-table ul {
 	list-style: none outside;
 	background-color: #fff;
 	padding: 30px 40px 20px 40px;
@@ -408,12 +408,12 @@ body #white.bitsharesx .boxes li span {
 	box-shadow: 0 2px 2px #d8e2e6;
 }
 
-#white.bitsharesx .specs-table ul {
+.bitsharesx .specs-table ul {
 	width: 70%;
 	margin: 0 auto;
 }
 
-#white.bitsharesx .specs-table .your-bank ul {
+.bitsharesx .specs-table .your-bank ul {
 	color: #668fa2;
 }
 
@@ -543,35 +543,35 @@ body #white.bitsharesx .boxes li span {
 	background-color: #f7f7f7;
 }
 
-#white.bitsharesx.bitshares .specs-table ul {
+.bitsharesx.bitshares .specs-table ul {
 	min-height: 300px;
 }
 
-#white.bitsharesx.bitshares .your-bank > .row,
-#white.bitsharesx.bitshares .bitshares > .row {
+.bitsharesx.bitshares .your-bank > .row,
+.bitsharesx.bitshares .bitshares > .row {
 	margin-bottom: 10px;
 }
 
-#white.bitsharesx.bitshares .your-bank img,
-#white.bitsharesx.bitshares .bitshares img {
+.bitsharesx.bitshares .your-bank img,
+.bitsharesx.bitshares .bitshares img {
 	box-shadow: none;
 }
 
-#white.bitsharesx.bitshares .bitshares img {
+.bitsharesx.bitshares .bitshares img {
 	position: relative;
 	top: -10px;
 }
 
-#white.bitsharesx.bitshares .specs-table h2 {
+.bitsharesx.bitshares .specs-table h2 {
 	margin-bottom: 50px;
 	padding-top: 20px;
 }
 
-#white.bitsharesx.bitshares .specs-table h3.maintitle {
+.bitsharesx.bitshares .specs-table h3.maintitle {
 	margin-bottom: 10px;
 }
 
-#white.bitsharesx.bitshares h2 {
+.bitsharesx.bitshares h2 {
 	font-size: 40px;
 	line-height: 50px;
 	width: 70%;
@@ -580,7 +580,7 @@ body #white.bitsharesx .boxes li span {
 	margin-bottom: 10px;
 }
 
-#white.bitsharesx.bitshares .specs-table ul {
+.bitsharesx.bitshares .specs-table ul {
 	background-color: #fff;
 	color: #71767d;
 	border: 1px solid #dfdfdf;
@@ -600,12 +600,12 @@ body #white.bitsharesx .boxes li span {
 
 @media (max-width: 1200px) {
 
-	#white.bitsharesx .boxes h2 {
+	.bitsharesx .boxes h2 {
 		font-size: 26px;
 		line-height: 36px;
 	}
 
-	#white.bitsharesx .boxes li {
+	.bitsharesx .boxes li {
 		width: 25%;
 		min-height: 140px;
 		margin: 0 30px;
@@ -648,30 +648,30 @@ body #white.bitsharesx .boxes li span {
 		padding-bottom: 0;
 	}
 
-	#white.bitsharesx .boxes {
+	.bitsharesx .boxes {
 		text-align: center;
 	}
 
-	#white.bitsharesx .boxes h2 {
+	.bitsharesx .boxes h2 {
 		font-size: 36px;
 		line-height: 42px;
 		text-align: center;
 	}
 
-	#white.bitsharesx .boxes img.bitsharesx-logo {
+	.bitsharesx .boxes img.bitsharesx-logo {
 		width: 50%;
 		margin: 0 auto 70px auto;
 	}
 
-	#white.bitsharesx .boxes ul {
+	.bitsharesx .boxes ul {
 		padding-right: 70px;
 	}
 
-	#white.bitsharesx .boxes li {
+	.bitsharesx .boxes li {
 		width: 35%;
 	}
 
-	#white.bitsharesx .specs-table ul {
+	.bitsharesx .specs-table ul {
 		width: 50%;
 		margin: 0 auto 40px auto;
 	}
@@ -680,7 +680,7 @@ body #white.bitsharesx .boxes li span {
 		margin-bottom: 100px;
 	}
 
-	#white.bitsharesx .boxes li.clear-mobile {
+	.bitsharesx .boxes li.clear-mobile {
 		clear: right;
 	}
 
@@ -720,24 +720,24 @@ body #white.bitsharesx .boxes li span {
 }
 
 @media (max-width: 660px) {
-	#white.bitsharesx .boxes h2 {
+	.bitsharesx .boxes h2 {
 		padding: 0 30px;
 	}
 
-	#white.bitsharesx .boxes ul {
+	.bitsharesx .boxes ul {
 		padding-right: 20px;
 	}
 
-	#white.bitsharesx .boxes li {
+	.bitsharesx .boxes li {
 		width: 90%;
 		float: none;
 	}
 
-	#white.bitsharesx .boxes li h3 {
+	.bitsharesx .boxes li h3 {
 		font-size: 18px;
 	}
 
-	body #white.bitsharesx .boxes li span {
+	body .bitsharesx .boxes li span {
 		font-size: 15px;
 	}
 
@@ -774,22 +774,22 @@ body #white.bitsharesx .boxes li span {
 		width: 100%;
 	}
 
-	#white.bitsharesx .boxes ul {
+	.bitsharesx .boxes ul {
 		padding: 0;
 	}
 
-	#white.bitsharesx .boxes li {
+	.bitsharesx .boxes li {
 		width: 70%;
 		float: none;
 		min-height: 10px;
 		padding-bottom: 20px;
 	}
 
-	#white.bitsharesx .boxes img.bitsharesx-logo {
+	.bitsharesx .boxes img.bitsharesx-logo {
 		width: 90%;
 	}
 
-	#white.bitsharesx .specs-table ul {
+	.bitsharesx .specs-table ul {
 		width: 90%;
 	}
 }

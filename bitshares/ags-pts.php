@@ -1,22 +1,32 @@
-<?php $section_title = "AGS"; include '../header.php'; ?>
+<?php $section_title = "AGS/PTS"; include '../header.php'; ?>
 <?php #echo "<script src=\"/assets/js/chart.js\"></script> "; ?>
    <script src="/assets/js/pts.prices.js"></script>
 
 	<div id="white">
 		<div class="container">			
 <!--			<div class="inner-page row"> -->
-            <div class="row">
-               <div class="col-lg-3">
+            <div class="row centered">
+               <div class="col-lg-3 centered">
                </div>
-               <div class="col-lg-8">
+               <div class="col-lg-6 centered">
+               <h1>OWN THE FUTURE</h1>
+               <p>
+               Looking for an opportunity to get involved with BitShares? Owning our prototype shares and donating to our angel fund are two ways. Let’s explore them both.
+               </p>
+               <br/>
+               <br/>
                </div>
             </div>
 				<div class="row">				
 					<div class="col-lg-6">					
-            <h1><span style="color:#9ce936;">bit</span><span style="color:#009df6;">shares</span> AGS</h1>
+             <center> <img src="http://bitshares.org/assets/images/ags-sm-logo.png"/> </center>
+             <br/>
+             <br/>
             <p>
-            BitShares AGS is just an imaginary altcoin
-            with an extraordinary source of value. People who hold them get free shares in every new <span style="color:#9ce936;">bit</span><span style="color:#009df6;">shares</span> company.
+            AGS (Angel Shares) are shares in an angel fund that supports the research, development and creation of the BitShares technology. Those who support the fund are given public credit as 10,000 AGS shares are awarded each day, proportional to the amount donated. AGS donations started on January 1, 2014, are not liquid, and are limited to 2 million shares.
+
+            AGS can be thought of as an imaginary altcoin with an extraordinary source of value. People who hold them get free shares 
+            in every new <span style="color:#9ce936;">bit</span><span style="color:#009df6;">shares</span> decentralized autonomous company.
             </p>
 
             <h3>How does it work?</h3>
@@ -71,7 +81,9 @@
 
            </div> <!-- AGS COLUMN -->
 					<div class="col-lg-6">					
-            <h1><span style="color:#9ce936;">bit</span><span style="color:#009df6;">shares</span> PTS</h1>
+             <center> <img src="http://bitshares.org/assets/images/pts-sm-logo.png"/> </center>
+             <br/>
+             <br/>
 							<p style="text-align: justify;">
               <span style="color:#9ce936;">bit</span><span style="color:#009df6;">shares</span> PTS is a Bitcoin clone that allows you to mine and trade your support for the <span style="color:#9ce936;">bit</span><span style="color:#009df6;">shares</span> ecosystem.  You become a
               member of a larger community of individuals who believe in building decentralized technology when you own even a fraction of

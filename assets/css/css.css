@@ -1737,7 +1737,7 @@ footer .clear {
 /* Bitshares X */
 .bitsharesx-header {
 	position: relative;
-	background-image: url(../img/bitsharesx-banner.jpg);
+	background-image: url(/assets/img/bitsharesx-banner.jpg);
 	background-color: #fff !important;
 	background-repeat: no-repeat;
 	background-size: 100%;

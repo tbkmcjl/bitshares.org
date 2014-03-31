@@ -21,13 +21,14 @@
       <article class="col-25">
         <h3>Companies</h3>
         <ul>
-          <li><a href="/bitshares/exchange">bitshares X</a></li>
+          <li><a href="/bitshares/bank">bitshares X</a></li>
           <li><a href="/bitshares/me">bitshares ME</a></li>
           <li><a href="/bitshares/dns">bitshares DNS</a></li>
           <li><a href="/bitshares/voice">bitshares VOICE</a></li>
           <li><a href="/bitshares/insurance">bitshares MAS</a></li>
-          <li><a href="/bitshares/x">bitshares MUSIC</a></li>
-          <li><a href="/bitshares/lotto">bitshares HOPE</a></li>
+          <li><a href="/bitshares/music">bitshares MUSIC</a></li>
+          <li><a href="/bitshares/hope">bitshares HOPE</a></li>
+          <li><a href="/bitshares/vegas">bitshares VEGAS</a></li>
           <li><a href="/bitshares/ags-pts.php">bitshares PTS/AGS</a></li>
         </ul>
         <ul> </ul>
