@@ -64,7 +64,7 @@
     </div>
     <div class="navbar-collapse collapse">
       <ul class="nav navbar-nav navbar-left">
-        <li><a href="/index.php"><span style="color:#9ce936;">bit</span><span style="color:#009df6;">shares</span></a></li>
+        <li><a href="/index.php"><span style="color:#9ce936;">bit</span><span style="color:#009df6;">shares</span>.org</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li><a href="/blog/">Blog</a></li>

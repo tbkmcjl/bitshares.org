@@ -9,7 +9,7 @@
                <div class="col-lg-3 centered">
                </div>
                <div class="col-lg-6 centered">
-               <h1>OWN THE FUTURE</h1>
+               <h1>GET YOUR SHARE</h1>
                <p>
                Looking for an opportunity to get involved with BitShares? Owning our prototype shares and donating to our angel fund are two ways. Let’s explore them both.
                </p>
@@ -46,7 +46,7 @@
             <h3>How to become a Patron Angel</h3>
             <p>
             <span style="color:#9ce936;">bit</span><span style="color:#009df6;">shares</span> AGS is a public way to document who has donated to help build the industry. 
-            Donations are used to help build software tools and a powerful ecosystem to help developers launch their new digital autonomous companies. It return, 3rd party 
+            Donations are used to help build software tools and a powerful ecosystem to help developers launch their new digital autonomous companies. In return, 3rd party 
             developers may choose to give shares in their new companies as “tips” to those donors.  They do this primarily as a targeted promotion to attract the support 
             of people who are likely to contribute to their new ventures in a variety of helpful ways.  Proven donors are Very Important Persons!
             </p>
@@ -92,11 +92,7 @@
               <p>
               <span style="color:#9ce936;">bit</span><span style="color:#009df6;">shares</span> PTS comes with a social consensus that at least 10% of the total shares in all future
               <span style="color:#9ce936;">bit</span><span style="color:#009df6;">shares</span> blockchains should acknowledge the support given by the holders of PTS by providing an initial balance
-              in the genesis block of each new chain.  In the case of <a href="bitshares/x.php">bitshares X</a>
-              we recommend that supporters be acknowledged with 50% of the total shares in the genesis block.
-              </p>
-              <p>
-              We only recommend that those who choose to take our software and launch a bitshares blockchain recognize our supporters who made this possible.
+              in the genesis block of each new chain.     </p>
               <p>
               <a class="btn btn-primary btn-lg" href="https://github.com/BitShares/BitShares-PTS/releases/download/v1.0.0/BitShares-PTS-1.0.0-win32-setup.exe">Download Windows Wallet (.exe)</a>
               <br/>
@@ -107,7 +103,6 @@
               <a class="btn btn-primary btn-lg" href="https://github.com/BitShares/BitShares-PTS">Source</a>
               </p>
               <p>
-              We have previously referred to BitShares PTS as "Protoshares", but no longer do so.  "ProtoShare" is a registered trademark of Site9, Inc. for its prototyping and mock-up software product, ProtoShare.  There is no relationship between ProtoShare and Invictus Innovations.
               </p>
 
               <div class="pts-resources">

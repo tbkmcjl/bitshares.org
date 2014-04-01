@@ -80,8 +80,9 @@
 
          <h4> Matching Algorithm </h4>
          <p>
-         BitShares X uses a non-traditional order matching algorithm.  The algorithm chosen always gives the buyer exactly what they ask for instead of traditional order matching which gives the buyer at least what they ask for and sometimes more.    Any time a the highest bid is greater than the lowest ask the difference is captured as fees by the network.  In the case of BitShares X there is no distinction between buyer and seller because someone buying XTS with USD is no different than someone buying USD with XTS.   Both sides of the trade get the price they specified rather than using the same price for both parties.  The difference is kept as fees for the network.   
+         BitShares X uses a non-traditional order matching algorithm.  The algorithm chosen always gives the buyer exactly what they ask for instead of traditional order matching which gives the buyer at least what they ask for and sometimes more.    Any time a the highest bid is greater than the lowest ask the difference is captured as fees by the network.  In the case of BitShares X there is no distinction between buyer and seller because someone buying BIPS with USD is no different than someone buying USD with BIPS.   Both sides of the trade get the price they specified rather than using the same price for both parties.  The difference is kept as fees for the network.   
          </p>
+         <center> <img src="/assets/img/marketmaker.png"/> </center>
          <p>
          The reason for this algorithm is to penalize those that would attempt to manipulate the market by walking the book via fees charged proportional to the amount of the book they walk in a single go.   This is designed to enforce value-based investing rather than technical trading.   This is expected to reduce volatility and liquidity as trading noise is removed from the network. No market participant should be able to complain about getting exactly what they ask for and thus they should only place orders they think are fair. 
          </p>

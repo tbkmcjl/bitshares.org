@@ -8,7 +8,7 @@
                <li><b>Snapshot:</b> Feb 28, 2014</li>
                <li><b>Ticker Symbol:</b> BTSX </li>
                <li><b>Initial Shares:</b> 8,000,000</li>
-               <li><b>Unit of Account:</b> <a href="/faq/index.php?#mips">mips</a></li>
+               <li><b>Unit of Account:</b> <a href="/faq/index.php?#bips">bips</a></li>
                <li><b>Security Model:</b> Timekeeper / <a href="/security/index.php#TaPOS">TaPOS</a></li>
                <li><b>Block Interval:</b> 30 seconds</li>
                <li><b>Revenue Sources:</b>

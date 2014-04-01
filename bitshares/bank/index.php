@@ -1,4 +1,4 @@
-<?php $section_title = "AGS"; include '../../header.php'; ?>
+<?php $section_title = "Bank &amp; Exchange"; include '../../header.php'; ?>
      <section data-type="background" class="bitsharesx-header">
         <section class="inner-lg-billboard">
             <div class="container">
