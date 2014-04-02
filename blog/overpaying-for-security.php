@@ -27,10 +27,11 @@
 
   <p>
   Such simplistic views on the nature and purpose of the security provided by hash-power 
-  ignores a very important economic concept, marginal utility.   Marginal utility dictates 
-  that the value of a good or service decreases as the quantity consumed or available 
-  increases.   An example is food.  Its value is very high if you don’t have any, but 
-  becomes worthless when there is more than you can eat.
+  ignores a very important economic concept,economic concept,
+  <a href="http://en.wikipedia.org/wiki/Marginal_utility">marginal utility</a>. 
+  Marginal utility dictates that the value of a good or service decreases as the quantity
+  consumed or available increases.An example is food.Its value is very high if you don’t
+  have any, but becomes worthless when there is more than you can eat.
   </p>
 
   <p>
@@ -142,12 +143,13 @@
   </p>
 
   <p>
-  In a recent (and on-going) poll of 44 members of bitcointalk.org,  88% of respondents 
-  selected ‘more is always better’ as the amount of money that the network should spend
-  on hashing power.   This demonstrates two things.  One, when costs are socialized people
-  always want more because someone else is paying.  Two, few people understanding marginal 
-  utility.    After reading the rest of this article I encourage you to vote in the poll
-  and explain your assessment in the comments.
+  In a <a href="https://bitcointalk.org/index.php?topic=285701.0">recent (and on-going)
+  poll of 44 members of bitcointalk.org</a>,88% of respondents selected ‘more is always
+  better’ as the amount of money that the network should spend on hashing power.This
+  demonstrates two things.  One, when costs are socialized people always want more
+  because someone else is paying.  Two, few people understanding marginal utility.
+  After reading the rest of this article I encourage you to vote in the poll and
+  explain your assessment in the comments.
   </p>
 
   <h4>What about currency Issuance?</h4>
@@ -213,7 +215,7 @@
 
   <p>
   While it is too late for Bitcoin, Invictus Innovations is introducing some new ideas
-  that aim to solve these problems.    Imagine what could be accomplished if the $150
+  that aim to solve these problems. Imagine what could be accomplished if the $150
   million dollars / year that are currently directed toward overpriced and ineffective 
   surplus “hash-security” could be redirected into developing, marketing, and 
   promoting the currency in such a way that overall security is increased?
