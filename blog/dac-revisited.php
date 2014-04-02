@@ -11,13 +11,17 @@
   <br/> <a href="http://letstalkbitcoin.com/dac-revisited/">source</a> 
 
   <p>
-  Since Stan Larimer first published “Bitcoin and the Three Laws
-  of Robotics” there have been many articles discussing the
-  creation of Decentralized Autonomous Corporations (aka DACs).
-  Vitalik Buterin has published a 3-part series discussing the
-  bootstrapping of a DAC, interacting with the world, and Identity
-  Corp.Others, such as 8BTC, have started to  talk about their systems
-  as a DAC.
+  Since <a href="http://invictus-innovations.com/stanley-larimer">Stan Larimer</a> first published 
+  “<a title="Bitcoin and the Three Laws of Robotics" 
+  href="http://letstalkbitcoin.com/bitcoin-and-the-three-laws-of-robotics/">Bitcoin and the Three 
+  Laws of Robotics</a>” there have been many articles discussing the creation of Decentralized 
+  Autonomous Corporations (aka DACs).
+  <a href="https://bitcoinpresscenter.org/presscontact/vitalik-buterin">Vitalik Buterin</a> has 
+  published a <a href="http://bitcoinmagazine.com/7050/bootstrapping-a-decentralized-autonomous-corporation-part-i/">
+  3-part series</a> discussing the bootstrapping of a DAC, interacting with the world, and Identity Corp.
+  Others, such as <a href="http://8btc.com">8BTC</a>, have started to
+  <a href="http://bitcoinmagazine.com/7827/the-pirates-of-8btc-implement-the-idea-of-distributed-autonomous-corporations/">
+  talk about their systems as a DAC</a>.
   </p>
 
   <p>
