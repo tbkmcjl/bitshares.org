@@ -20,9 +20,9 @@
   If you ever lose access to your email account then you have lost access to many of your 
   other accounts as well.   Even worse, if someone is able to read your emails then they 
   can reset your passwords on every service you use and effectively steal your ‘identity’
-  and take your money with it.     Ultimately Google, Apple, Yahoo and others own your 
+  and take your money with it. Ultimately Google, Apple, Yahoo and others own your 
   online identity and as much as you may trust any individual company, these companies 
-  can be strong-armed by governments you may not trust.   But even if you have complete
+  can be strong-armed by governments you may not trust.But even if you have complete
   faith in these companies and the government, the security offered under this model
   is so poor that every single day accounts are compromised in mass. 
   </p>
@@ -49,10 +49,12 @@
   I come from a very computer-literate family and have attempted to set up secure email 
   communication with those closest to me.   Despite sending instructions, YouTube videos,
   and screen sharing sessions it was almost impossible to get working reliably.The 
-  situation has been so bad that even Edward Snowden was unable to get Glenn Greenwald 
-  to setup PGP encryption in a timely manner so they could securely communicate.Most people
-  end up giving every company they deal with the keys to their identity by using the 
-  same password everywhere.
+  situation has been so bad that even  Edward Snowden was 
+  <a title="unable to get Glenn Greenwald to set up PGP encryption" 
+  href="http://www.huffingtonpost.com/2013/06/10/edward-snowden-glenn-greenwald_n_3416978.html">
+  unable to get Glenn Greenwald to setup PGP encryption</a> 
+  in a timely manner so they could securely communicate.Most people end up giving every company 
+  they deal with the keys to their identity by using the same password everywhere.
   </p>
 
   <p>
@@ -71,11 +73,13 @@
 
   <p>
   It is clear that the problem with security is not in the realm of encryption, but in making 
-  it easy to use.   This is where Invictus Innovations has combined the technologies of 
-  Bitcoin, BitMessage, Namecoin, with several new methods to  bring the benefits of encryption
-  to the masses.  Apple introduced the Macintosh in 1984 with the promise of showing us why 
-  1984 won’t be like ‘1984’.  This message has remained close to the heart of Invictus 
-  Innovations; we intend to fulfill the promise Apple made thirty years ago.
+  it easy to use.This is where Invictus Innovations has combined the technologies of 
+  <a href="http://bitcoin.org">Bitcoin</a>, <a href="https://bitmessage.org/wiki/Main_Page">
+  BitMessage</a>, <a href="http://www.namecoin.org/">Namecoin</a>, with several new methods 
+  to  bring the benefits of encryption  to the masses.  Apple introduced the Macintosh in 1984 
+  with the promise of showing us why 1984 won’t be like ‘1984’.  This message has remained 
+  close to the heart of Invictus Innovations; we intend to fulfill the promise Apple made 
+  thirty years ago.
   </p>
 
   <center>
@@ -84,19 +88,20 @@
 
   <p>
   The primary challenge with making cryptography easy to use lies in the secure exchange of 
-  what is known as a ‘public key’.    A public key is nothing more than a very large random 
+  what is known as a ‘public key’.A public key is nothing more than a very large random 
   number that is paired with another large random number known as a private key.Assuming 
   you can exchange public keys with everyone you know and keep your private key secret then 
   the rest of the problem is easy in comparison.
   </p>
 
   <p>
-  As the famous 1999 paper “Why Johnny Can’t Encrypt” demonstrates, users have a very hard 
-  time keeping this information straight.  There is a steep learning curve to understand the
-  ‘theory’ behind it and the information is ultimately just ‘random data’ so it is a black box.
-  Unfortunately, exchanging the information is only part of the problem, the other part is 
-  validating the information provided.    If someone provides you Johnny’s public key in an
-  email, how can you trust it?
+  As the famous 1999 paper “<a title="Why Johnny Can't Encrypt" 
+  href="http://www.gaudior.net/alma/johnny.pdf">Why Johnny Can’t Encrypt</a>” demonstrates,
+  users have a very hard time keeping this information straight.  There is a steep learning 
+  curve to understand the ‘theory’ behind it and the information is ultimately just ‘random data’ 
+  so it is a black box.Unfortunately, exchanging the information is only part of the problem,
+  the other part is validating the information provided.    If someone provides you Johnny’s
+  public key in an email, how can you trust it?
   </p>
 
   <p>
@@ -178,8 +183,8 @@
   enable you to use your BitShares ID to provide ‘single-sign-on’ for the entire internet.   You will
   no longer have to trust any business to protect your personal information and most businesses will
   no longer even need to collect it.   The result is that identity theft and the resulting financial,
-  credit, and reputation theft will become much less common and no longer within reach of every scammer
-  with a phishing site.
+  credit, and reputation theft will become much less common and no longer within reach of every scammer 
+  with a <a href="http://en.wikipedia.org/wiki/Phishing">phishing</a> site.
   </p>
 
   <p>
