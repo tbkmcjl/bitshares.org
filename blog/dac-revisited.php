@@ -56,6 +56,10 @@
    bank to honor their promise to pay a dollars worth of value.
   </p>
 
+  <center>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Us-gold-certificate-1922.jpg"/>
+  </center>
+
   <p>
   Lets step back one step further, and consider that a dollar use to be
   defined as  412.5 grains of 99.9% pure silver.   When you received a
