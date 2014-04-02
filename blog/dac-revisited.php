@@ -236,15 +236,15 @@
   </p>
 
   <p>
-  1) News Aggregation
-  2) AdWords
-  3) Domain Names
-  4) Patents, Copyright and next generation Intellectual Property
-  5) Insurance
-  6) Courts, Escrow, and Arbitration
-  7) Authenticated Anonymous Voting
-  8) Prediction Markets
-  9) Next Generation Search Engines
+  1) News Aggregation</br>
+  2) AdWords</br>
+  3) Domain Names</br>
+  4) Patents, Copyright and next generation Intellectual Property</br>
+  5) Insurance</br>
+  6) Courts, Escrow, and Arbitration</br>
+  7) Authenticated Anonymous Voting</br>
+  8) Prediction Markets</br>
+  9) Next Generation Search Engines</br>
   </p>
 
   <p>
