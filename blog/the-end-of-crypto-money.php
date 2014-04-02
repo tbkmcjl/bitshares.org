@@ -3,10 +3,10 @@
   <br/>
   <br/>
 
-  <center><h1>Charles W. Evans</h1></center>
-  <center><h3>March , 2014</h3></center>
+  <center><h1>The End of Cryptomoney </h1></center>
+  <center><h3>Charles W. Evans</h3></center>
+  <center><h4>March , 2014</h4></center>
 
-  <h2>The End of Cryptomoney </h2>
   <p>
   2014-03-25 the US Internal Revenue Service (IRS) issued its 
   long-awaited Guidance on how to categorize cryptocurrencies for 

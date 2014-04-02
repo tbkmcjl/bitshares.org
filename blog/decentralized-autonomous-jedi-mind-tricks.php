@@ -3,10 +3,10 @@
   <br/>
   <br/>
 
-  <center><h1>Daniel Larimer & Charles Evans</h1></center>
-  <center><h3>March 30, 2014</h3></center>
+  <center><h1>Decentralized Autonomous Jedi Mind Tricks</h1></center>
+  <center><h3>Daniel Larimer & Charles Evans</h3></center>
+  <center><h4>March 30, 2014</h4></center>
 
-  <h2>Decentralized Autonomous Jedi Mind Tricks</h2>
   <p>
   In December David Johnston, one of the developers
   of Mastercoin and co-founder of cryptocurrency 
@@ -45,7 +45,7 @@
   looking for."
   </p>
 
-  <h2>A Meta-Analogy</h2>
+  <h4>A Meta-Analogy</h4>
 
   <p>
   Imagine you just discovered electricity and all of the amazing 
@@ -179,9 +179,9 @@
   </p>
 
   <p>
-  If the conversation were about Distributed Applications, none of this might stand out as noteworthy. If the conversation is about DACs, these issues stand out like a Klingon at a Star Wars convention.
+  If the conversation were about Distributed Applications, none of this might stand out as noteworthy. 
+  If the conversation is about DACs, these issues stand out like a Klingon at a Star Wars convention.
   </p>
-  <center>Republished from <a href="http://ybitcoin.net">yBitcoin</a></center>
   <br/>
   <br/>
 

@@ -3,10 +3,10 @@
   <br/>
   <br/>
 
-  <center><h1>Charles Evans</h1></center>
-  <center><h3> March 14, 2014</h3></center>
+  <center><h1>A BitRose by any Other Name</h1></center>
+  <center><h3>Charles Evans</h3></center>
+  <center><h4> March 14, 2014</h4></center>
 
-  <h2>A BitRose by any Other Name</h2>
   <p>
   BitShares strives to be to business what Bitcoin is to money. 
   This ambitious goal is made possible by Satoshi Nakamoto’s 
