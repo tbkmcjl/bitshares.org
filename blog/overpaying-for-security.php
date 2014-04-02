@@ -44,7 +44,11 @@
   These principles are true in the realm of crypto-currencies as well.  In fact, too much 
   security can destroy utility.
   </p>
-
+  
+  <center>
+  <img src="http://blog.netwrix.com/wp-content/uploads/2011/06/security21.jpg"/>
+  </center>
+  
   <p>
   There are many different ways to provide security and the technique used depends upon who 
   the adversary is.   For example, you do not attempt to defend yourself against government
